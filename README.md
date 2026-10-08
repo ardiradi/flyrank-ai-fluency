@@ -2,6 +2,16 @@
 
 Public assignment evidence for the FlyRank AI Fluency track.
 
+## Frame It as Cases
+
+**Finalized:** 8 October 2026. Four evidence-led case studies share one audience, one contact action, a six-word voice card, and the structure **Problem / What I built / What came of it**.
+
+Ardi confirmed the full copy and voice card after reading them aloud: “Sudah dibaca keras dan sesuai.” No audio recording is claimed. The public package includes professional case copy and relevant Claude Project instruction proof; private interview transcripts remain local.
+
+- [Frame It as Cases package](frame-it-as-cases/README.md)
+- [Submission PDF](frame-it-as-cases/Ardi_Riyadi_Frame_It_as_Cases.pdf)
+- [Professional case Markdown](frame-it-as-cases/Frame_It_as_Cases.md)
+
 ## The Prompt Ladder
 
 **Experiment date:** 8 October 2026. **Selected runs:** six independent Codex responses, V0 through V5.
@@ -23,4 +33,4 @@ The supplied command record reports that the backend capstone's `npm test` passe
 
 Every selected output is retained as generated. This is a qualitative, single-response comparison per version; an exact model identifier and fixed sampling seed were not recorded. The PDF's ten rendered pages were visually checked, and the ZIP's CRC and all 26 manifest entries were verified before publication.
 
-This repository contains the Prompt Ladder deliverable only. It does not submit assignments to the FlyRank portal automatically.
+Each folder contains the relevant assignment deliverables and verification scope. This repository does not submit assignments to the FlyRank portal automatically.
