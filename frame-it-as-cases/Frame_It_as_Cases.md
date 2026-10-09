@@ -42,7 +42,9 @@ I worked on PharmaCheck myself. I built a Streamlit interface that accepts an im
 
 The repository contains a document extraction prototype, a public sample label, and a linked demo. The result is an interface that brings three important fields into view while preserving the source text for review. It does not yet normalize dates, validate batch formats, or maintain a persistent audit trail. No extraction accuracy or time-saving result is claimed here.
 
-**Proof:** [Scope and limitations](https://github.com/ardiradi/PharmaCheck-AI-Core/blob/main/README.md), [upload, keyword mapping, and review interface](https://github.com/ardiradi/PharmaCheck-AI-Core/blob/main/app.py), [demo link](https://ard11-pharmacheck-ai.hf.space/).
+**Demo availability note, updated 09 October 2026:** The hosted Space reported an error when checked on 08 and 09 October 2026.
+
+**Proof:** [Scope and limitations](https://github.com/ardiradi/PharmaCheck-AI-Core/blob/main/README.md), [upload, keyword mapping, and review interface](https://github.com/ardiradi/PharmaCheck-AI-Core/blob/main/app.py), [PharmaCheck Space status](https://ard11-pharmacheck-ai.hf.space/).
 
 ## 3. EcoVision
 
